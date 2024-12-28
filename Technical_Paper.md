@@ -8,7 +8,7 @@ Cloud computing has changed the way businesses manage technology. IaaS is one of
 
 2. How IaaS Works
 
-  IaaS uses advanced technology to offer IT resources over the internet. Here’s a simple breakdown of its parts:
+   IaaS uses advanced technology to offer IT resources over the internet. Here’s a simple breakdown of its parts:
 
 - Physical Hardware
 
