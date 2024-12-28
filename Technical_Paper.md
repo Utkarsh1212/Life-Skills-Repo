@@ -48,7 +48,7 @@ Cloud computing has changed the way businesses manage technology. IaaS is one of
 
 4. Types of IaaS Deployments
 
-  IaaS can be set up in different ways to suit business needs:
+   IaaS can be set up in different ways to suit business needs:
 
 - Public Cloud
 
