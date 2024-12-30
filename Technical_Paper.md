@@ -1,12 +1,12 @@
-Infrastructure as a Service (IaaS)
+# Infrastructure as a Service (IaaS)
 
-1. Introduction
+## 1. Introduction
 
 Infrastructure as a Service (IaaS) is a cloud computing model that provides essential IT resources like servers, storage, and networking over the internet. This document explains IaaS in simple terms, covering its main features, benefits, challenges, and uses. It aims to help readers understand how IaaS works and how it can benefit businesses.
 
 Cloud computing has changed the way businesses manage technology. IaaS is one of the main types of cloud services, alongside Platform as a Service (PaaS) and Software as a Service (SaaS). It gives businesses access to powerful IT resources without needing to buy or maintain physical hardware. This document provides a clear overview of what IaaS is and how it can help organizations.
 
-2. How IaaS Works
+## 2. How IaaS Works
 
    IaaS uses advanced technology to offer IT resources over the internet. Here’s a simple breakdown of its parts:
 
@@ -26,7 +26,7 @@ Cloud computing has changed the way businesses manage technology. IaaS is one of
 
   Users access IaaS resources over the internet, either through a web interface or by using specific software tools.
 
-3. Key Features of IaaS
+## 3. Key Features of IaaS
 
    IaaS provides several important features:
 
@@ -46,7 +46,7 @@ Cloud computing has changed the way businesses manage technology. IaaS is one of
 
   Providers include basic security features like encryption and firewalls to keep data safe.
 
-4. Types of IaaS Deployments
+## 4. Types of IaaS Deployments
 
    IaaS can be set up in different ways to suit business needs:
 
@@ -62,7 +62,7 @@ Cloud computing has changed the way businesses manage technology. IaaS is one of
 
   Combines public and private clouds, allowing businesses to use both for different tasks.
 
-5. Benefits of IaaS
+## 5. Benefits of IaaS
 
 - Cost Savings
 
@@ -80,7 +80,7 @@ Cloud computing has changed the way businesses manage technology. IaaS is one of
 
   IaaS resources are available from anywhere with an internet connection.
 
-6. Challenges of IaaS
+## 6. Challenges of IaaS
 
 - Security Concerns
 
@@ -94,7 +94,7 @@ Cloud computing has changed the way businesses manage technology. IaaS is one of
 
   In shared environments, performance can be affected by other users’ activities.
 
-7. Common Uses of IaaS
+## 7. Common Uses of IaaS
 
 - App Development and Testing
 
@@ -112,12 +112,12 @@ Cloud computing has changed the way businesses manage technology. IaaS is one of
 
   IaaS supports analyzing large datasets to gain insights.
 
-8. Conclusion
+## 8. Conclusion
 
   IaaS is a powerful tool that helps businesses access IT resources without owning expensive hardware. It offers flexibility, cost savings, and fast deployment, making it ideal for many use cases. While there are some challenges, careful 
   planning can help businesses take full advantage of IaaS.
 
-References
+## References
 
 
 Amazon Web Services (AWS). (n.d.). IaaS Overview.
