@@ -16,7 +16,7 @@
   
 
 
-1. **Explaining different scenarios of sexual harassment**:  
+**1. Explaining different scenarios of sexual harassment**:  
    The video illustrates multiple real-life situations to help employees recognize sexual harassment. These include:  
    - **Physical harassment**: Unwanted touching or physical advances.  
    - **Verbal harassment**: Making inappropriate jokes, comments, or remarks about someone’s appearance or gender.  
@@ -24,13 +24,13 @@
    - **Digital harassment**: Sending explicit messages, emails, or images.  
    - **Quid pro quo**: offers of workplace benefits in exchange for sexual favors.  
 
-2. **Handling harassment**:  
+**2. Handling harassment**:  
    - Document details of the incident.  
    - Confront the harasser if safe.  
    - Report the behavior to HR or a supervisor.  
    - Seek support from trusted colleagues or counselors.  
 
-3. **Appropriate behavior**:  
+**3. Appropriate behavior**:  
    - Maintain professionalism.  
    - Respect personal boundaries.  
    - Avoid actions or comments that could make others uncomfortable.
