@@ -10,7 +10,9 @@
 - **Confront**: If safe, tell the person to stop.  
 - **Report**: Inform your manager, HR, or a designated authority.  
 - **Seek Support**: Talk to trusted colleagues or counselors.  
-- **Escalate**: If unresolved, involve higher management or legal help.  
+- **Escalate**: If unresolved, involve higher management or legal help.
+
+  
 
 1. **Explaining different scenarios of sexual harassment**:  
    The video illustrates multiple real-life situations to help employees recognize sexual harassment. These include:  
